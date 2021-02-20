@@ -1,5 +1,6 @@
+<p align="center">
 ![A test image](affiche.png)
-
+</p>
 # StressFree
 
 One Paragraph of project description goes here
