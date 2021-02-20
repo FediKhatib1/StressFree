@@ -1,5 +1,6 @@
+
 <p align="center">
-![A test image](affiche.png)
+  <img width="460" height="300" src="affiche.png">
 </p>
 # StressFree
 
