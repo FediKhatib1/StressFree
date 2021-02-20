@@ -1,4 +1,4 @@
-![A test image](affiche.jpg)
+![A test image](affiche.png)
 
 # StressFree
 
