@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img width="460" height="300" src="affiche.png">
+  <img src="affiche.png">
 </p>
 # StressFree
 
